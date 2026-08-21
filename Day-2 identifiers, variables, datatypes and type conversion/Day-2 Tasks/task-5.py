@@ -7,6 +7,7 @@
 
 
 
+
 # # Compound Intrest
 # p=float(input("Enter Principal Amount"))
 # t=float(input("Enter Time"))
