@@ -13,6 +13,7 @@
 
 
 
+
 # # Comparision Operators
 # a = 10
 # b = 20
@@ -36,11 +37,13 @@
 # print(not(a > b))        # True
 
 
+
 # # Bitwise operators
 # a = 5
 # b = 3
 # print(a & b)
 # print(a | b)
+
 
 
 # # Membership Operators
@@ -70,12 +73,14 @@
 #     print("You are eligible to vote")
 
 
+
 # # if-else statement
 # num = 10
 # if num % 2 == 0:
 #     print("Even Number")
 # else:
 #     print("Odd Number")
+
 
 
 # # else-if statement
