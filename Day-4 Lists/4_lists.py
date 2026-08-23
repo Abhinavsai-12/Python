@@ -36,7 +36,7 @@
 # print(numbers)
 
 
-# numbers = [10, 20, 30]
+# numbers = [10, 40, 30]
 # numbers.reverse()
 # print(numbers)
 
@@ -52,7 +52,6 @@
 
 # list1 = [1, 2]
 # list2 = [3, 4]
-
 # list1.extend(list2)
 # print(list1)
 

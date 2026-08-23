@@ -12,91 +12,77 @@
 
 
 
-# variable.method
-# sruthi="PYTHON"
-# print(sruthi.lower())
-# print(james.count("sampoo"))
-
-
-# print(james.find("kiran"))
-# print(james.index("kiran"))
-
-
-# print(james.startswith("is"))
-# print(james.endswith("oo"))
-
-
-james="my fav hero is sampoo"
-
-
-# in_websites=[]
-# for i in ["abc.com","xyz.in","pythonlife.in"]:
-#     if i.endswith("in"):
-#         in_websites.append(i)
-# print(in_websites)
 
 
 
-# print(sai)
-# names=["sruthi","suresh","shaik","abdul","pr"]
-# for kiran in names:
-#     print("hii {} thinara?".format(kiran))
+text = "  Hello Python World Python  "
 
 
-# satya="kiran12334"
-# print(satya.isalpha())
-
-# d=kiran1234
-
-# d=" this is book  "
-# print(len(d))
-# s=d.strip()
-# print(len(s))
-# s=d.lstrip()
-# print(len(s))
-# s=d.rstrip()
-# print(len(s))
-
-# f="na book na istam"
-# print(f.title())
-
-# shaik="this is is my book"
-# # v=shaik.replace(" is"," are").replace('this',"that")
-# v=shaik.replace(" is"," are",1)
-# print(v)
-
-
-# d="this is string class"
-# f=d.split()
-# n=[]
-# for i in f:
-#     if i=="is":
-#         i="are"
-#         n.append(i)
-#     else:
-#         n.append(i)
-# print(n)
+# print("Original String:", text)
 
 
 
-# d="this is string class"
-# print(d)
-# c=d.split()
-# print(c)
-# s=" ".join(c)
-# print(s)
+
+# # 1. count()
+# print(text.count("Python"))
+
+# # 2. endswith()
+# print(text.endswith("Python  "))
+
+# # 3. find()
+# print(text.find("Python"))
+
+# # 4. format()
+# name = "Abhinav"
+# age = 24
+# print("My name is {} and I am {} years old.".format(name, age))
+
+# # 5. index()
+# print(text.index("Python"))
+
+# # 6. isalnum()
+# value = "Python123"
+# print(value.isalnum())
+
+# # 7. isalpha()
+# value = "Python"
+# print(value.isalpha())
+
+# # 8. join()
+# words = ["Python", "is", "easy"]
+# print(" ".join(words))
+
+# # 9. lower()
+# print(text.lower())
+
+# # 10. lstrip()
+# print(text.lstrip())
+
+# # 11. replace()
+# print(text.replace("Python", "Java"))
+
+# # 12. rstrip()
+# print(text.rstrip())
+
+# # 13. split()
+sentence = "Python is easy to learn"
+# print(sentence.split())
+
+# # 14. startswith()
+# print(text.startswith("  Hello"))
+
+# # 15. strip()
+# print(text.strip())
+
+# # 16. title()
+# print(sentence.title())
+
+# # 17. upper()
+# print(text.upper())
 
 
 
-'''
-Task 13
-practice string and methods and prepare doc
-Task 14
-take a string paragraph replace is with are and the with that
-Task 15
-Explore Slack
-'''
 
 
-s="1233454"
-print(s.isalpha())
+
+
