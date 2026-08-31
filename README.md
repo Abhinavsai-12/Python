@@ -1,2 +1,18 @@
 
 python from python Life 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
