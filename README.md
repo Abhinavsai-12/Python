@@ -1,9 +1,5 @@
 
-python from python Life 
-
-
-
-python full stack course 
+python full stack course from Python Life 
 
 
 
