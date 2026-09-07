@@ -1,0 +1,21 @@
+id,name,city,course,age,salary,gender
+101,Abhinav,Hyderabad,Python,22,45000,Male
+102,Sajan,Bangalore,Java,25,52000,Male
+103,Rahul,Chennai,Python,24,48000,Male
+104,Priya,Hyderabad,Data Science,23,55000,Female
+105,Anjali,Pune,Python,26,,Female
+106,Kiran,Bangalore,Java,28,65000,Male
+107,Sneha,Chennai,Data Science,27,72000,Female
+108,Arjun,Mumbai,Web Development,22,40000,Male
+109,Meena,,Python,29,68000,Female
+110,Vikram,Delhi,Java,31,75000,Male
+111,Ravi,Hyderabad,Web Development,24,46000,Male
+112,Divya,Mumbai,Python,25,58000,Female
+113,Aman,,Data Science,30,82000,Male
+114,Pooja,Pune,,27,63000,Female
+115,Naveen,Chennai,Python,23,44000,Male
+116,Lakshmi,Bangalore,Data Science,26,70000,Female
+117,Sai,Hyderabad,Java,29,67000,Male
+118,Swathi,Delhi,Web Development,24,49000,Female
+119,Rohit,Mumbai,Python,28,61000,Male
+120,Neha,,Data Science,25,59000,Female
