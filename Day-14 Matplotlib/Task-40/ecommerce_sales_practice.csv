@@ -1,0 +1,51 @@
+order_id,product,category,city,quantity,unit_price,customer_rating,payment_method,total_amount
+1001,Laptop,Computers,Chennai,5,500,2.8,Card,2500
+1002,Mouse,Electronics,Chennai,4,800,3.2,Card,3200
+1003,Smartphone,Accessories,Pune,5,2500,4.5,UPI,12500
+1004,Tablet,Computers,Chennai,3,2500,3.3,Cash,7500
+1005,Mouse,Accessories,Mumbai,2,500,4.9,Card,1000
+1006,Smartphone,Electronics,Pune,3,2500,2.6,Card,7500
+1007,Laptop,Accessories,Mumbai,4,5000,3.5,Cash,20000
+1008,Tablet,Accessories,Hyderabad,3,2500,2.8,Net Banking,7500
+1009,Monitor,Computers,Hyderabad,2,800,3.9,Net Banking,1600
+1010,Monitor,Accessories,Delhi,5,8000,4.9,Card,40000
+1011,Laptop,Electronics,Hyderabad,3,800,3.3,Cash,2400
+1012,Headphones,Computers,Delhi,5,8000,4.1,UPI,40000
+1013,Headphones,Accessories,Chennai,1,1200,3.2,UPI,1200
+1014,Monitor,Accessories,Pune,2,1200,3.6,Net Banking,2400
+1015,Monitor,Computers,Hyderabad,5,30000,3.9,Cash,150000
+1016,Keyboard,Accessories,Hyderabad,4,30000,3.1,Card,120000
+1017,Headphones,Electronics,Mumbai,4,15000,4.2,UPI,60000
+1018,Laptop,Electronics,Hyderabad,1,500,3.8,Net Banking,500
+1019,Tablet,Computers,Delhi,2,5000,4.8,Net Banking,10000
+1020,Smartphone,Electronics,Mumbai,4,30000,3.2,Net Banking,120000
+1021,Tablet,Computers,Hyderabad,1,8000,4.9,UPI,8000
+1022,Smartphone,Accessories,Delhi,3,15000,3.0,UPI,45000
+1023,Laptop,Electronics,Pune,4,2500,2.5,Net Banking,10000
+1024,Monitor,Accessories,Pune,4,1200,4.2,Net Banking,4800
+1025,Smartwatch,Electronics,Mumbai,3,500,4.3,Cash,1500
+1026,Smartphone,Accessories,Hyderabad,4,30000,3.7,Card,120000
+1027,Laptop,Computers,Chennai,1,8000,2.6,Net Banking,8000
+1028,Smartphone,Computers,Chennai,2,800,5.0,Card,1600
+1029,Headphones,Computers,Mumbai,5,500,2.9,Card,2500
+1030,Headphones,Electronics,Hyderabad,3,8000,4.7,Card,24000
+1031,Laptop,Computers,Delhi,5,30000,4.7,Card,150000
+1032,Mouse,Accessories,Chennai,5,8000,3.1,UPI,40000
+1033,Tablet,Accessories,Mumbai,5,15000,4.7,Card,75000
+1034,Smartwatch,Computers,Chennai,2,8000,3.7,Card,16000
+1035,Mouse,Computers,Hyderabad,3,8000,4.7,UPI,24000
+1036,Smartwatch,Electronics,Pune,5,2500,4.7,Net Banking,12500
+1037,Laptop,Computers,Pune,1,30000,4.4,UPI,30000
+1038,Mouse,Accessories,Bangalore,5,8000,3.2,UPI,40000
+1039,Monitor,Electronics,Mumbai,3,2500,4.0,Net Banking,7500
+1040,Smartwatch,Electronics,Hyderabad,2,1200,5.0,Cash,2400
+1041,Keyboard,Computers,Pune,5,15000,3.3,UPI,75000
+1042,Monitor,Accessories,Pune,3,500,3.5,UPI,1500
+1043,Laptop,Accessories,Bangalore,1,15000,4.2,Card,15000
+1044,Tablet,Accessories,Chennai,3,15000,2.7,Net Banking,45000
+1045,Tablet,Electronics,Pune,5,5000,3.1,Cash,25000
+1046,Smartwatch,Electronics,Bangalore,2,1200,2.9,Card,2400
+1047,Tablet,Electronics,Pune,2,15000,3.5,Cash,30000
+1048,Monitor,Accessories,Hyderabad,3,8000,3.6,UPI,24000
+1049,Laptop,Electronics,Pune,3,800,4.0,Cash,2400
+1050,Headphones,Electronics,Hyderabad,4,5000,3.7,Cash,20000
