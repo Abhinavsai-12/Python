@@ -2,9 +2,7 @@
 python full stack course from Python Life 
 
 
-multi threadi started 
+multi threading started 
 
 
-
-
-
+revision 
