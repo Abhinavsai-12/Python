@@ -6,8 +6,7 @@ python full stack course from Python Life
 
 
 
+web scraping completed
 
 
-
-m
 logical thinking started 
