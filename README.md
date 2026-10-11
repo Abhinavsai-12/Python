@@ -5,9 +5,7 @@ python full stack course from Python Life
 
 
 
-web scraping completed
-
-
+Revision started 
 
 
 logical thinking started 
