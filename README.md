@@ -9,10 +9,3 @@ logical thinking started
 
 
 
-
-
-
-
-
-
-
